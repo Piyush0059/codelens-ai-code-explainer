@@ -22,12 +22,6 @@ An AI-powered web app that **explains**, **debugs**, and **optimizes** code in m
 ## 🚀 Live Demo
 [Try CodeLens here](#)
 
-## 📸 Screenshots
-
-&lt;!-- AI Studio se screenshots leke yahan drag-drop karo --&gt;
-| Explain Mode | Debug Mode | Optimize Mode |
-|---|---|---|
-| (screenshot) | (screenshot) | (screenshot) |
 
 ## 💡 How It Works
 
