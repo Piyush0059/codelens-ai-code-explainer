@@ -20,8 +20,6 @@ An AI-powered web app that **explains**, **debugs**, and **optimizes** code in m
 - **JavaScript / HTML / CSS** — frontend
 
 ## 🚀 Live Demo
-
-&lt;!-- Apna AI Studio app link yahan paste karo --&gt;
 [Try CodeLens here](#)
 
 ## 📸 Screenshots
