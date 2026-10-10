@@ -1,0 +1,6 @@
+{
+  "name": "CodeLens",
+  "description": "AI Code Explainer & Debugger powered by Gemini with line-by-line walkthroughs, bug fixing, and complexity optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Magnifying Glass Glow & Ring Outer -->
+    <path
+        android:fillColor="#1F6FEB"
+        android:pathData="M48,22 C34.745,22 24,32.745 24,46 C24,59.255 34.745,70 48,70 C53.642,70 58.805,68.044 62.883,64.762 L77.561,79.439 C78.342,80.22 79.608,80.22 80.389,79.439 L82.439,77.389 C83.22,76.608 83.22,75.342 82.439,74.561 L67.762,59.883 C71.044,55.805 73,50.642 73,45 C73,32.294 62.255,22 49,22 Z" />
+
+    <!-- Lens Glass Fill -->
+    <path
+        android:fillColor="#161B22"
+        android:pathData="M48.5,27 C38.006,27 29.5,35.506 29.5,46 C29.5,56.494 38.006,65 48.5,65 C58.994,65 67.5,56.494 67.5,46 C67.5,35.506 58.994,27 48.5,27 Z" />
+
+    <!-- Lens Rim Highlight -->
+    <path
+        android:fillColor="#58A6FF"
+        android:pathData="M48.5,28 C38.559,28 30.5,36.059 30.5,46 C30.5,55.941 38.559,64 48.5,64 C58.441,64 66.5,55.941 66.5,46 C66.5,36.059 58.441,28 48.5,28 Z M48.5,31 C56.784,31 63.5,37.716 63.5,46 C63.5,54.284 56.784,61 48.5,61 C40.216,61 33.5,54.284 33.5,46 C33.5,37.716 40.216,31 48.5,31 Z" />
+
+    <!-- Code Brackets inside lens: < / > -->
+    <!-- Left bracket < -->
+    <path
+        android:fillColor="#3FB950"
+        android:pathData="M42,39 L36,45.5 L42,52 L43.8,50.2 L39.3,45.5 L43.8,40.8 Z" />
+
+    <!-- Slash / -->
+    <path
+        android:fillColor="#79C0FF"
+        android:pathData="M47,53 L51.5,38 L49.5,38 L45,53 Z" />
+
+    <!-- Right bracket > -->
+    <path
+        android:fillColor="#3FB950"
+        android:pathData="M55,39 L53.2,40.8 L57.7,45.5 L53.2,50.2 L55,52 L61,45.5 Z" />
+
+    <!-- Spark / Debugging Accent Star in top right of lens -->
+    <path
+        android:fillColor="#E3B341"
+        android:pathData="M61,33 L62.2,36.2 L65.5,37.2 L62.5,38.8 L61.5,42 L60.2,38.8 L57,37.5 L60,36.2 Z" />
+</vector>
