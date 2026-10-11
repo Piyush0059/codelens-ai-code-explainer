@@ -2,7 +2,7 @@
 
 An AI-powered web app that **explains**, **debugs**, and **optimizes** code in multiple programming languages. Built with **Google Gemini API**.
 
-![Built with Gemini](https://img.shields.io/badge/Built%20with-Gemini%20API-4285F4?style=flat&logo=google)
+
 ![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Java%20%7C%20C%2B%2B%20%7C%20JS-orange)
 
 ## ✨ Features
